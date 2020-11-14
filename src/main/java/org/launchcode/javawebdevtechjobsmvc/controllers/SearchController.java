@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import static org.launchcode.javawebdevtechjobsmvc.controllers.ListController.columnChoices;
 
 /**
- * Created by LaunchCode
+ * Created by LaunchCod
  */
 @Controller
 @RequestMapping("search")
